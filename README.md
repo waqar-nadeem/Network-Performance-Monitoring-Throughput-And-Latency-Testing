@@ -1,2 +1,2 @@
 # Network-Performance-Monitoring-Throughput-And-Latency-Testing
-Hands on networking lab for measuring throughput and latency across operating systems. Uses Windows pathping and Linux/macOS iperf3 to analyze performance, packet loss, and path quality, helping diagnose network bottlenecks and connectivity efficiency.
+This repository demonstrates network performance monitoring by measuring throughput and latency using Windows pathping and Linux/macOS iperf3. It helps analyze packet loss, route behavior, and identify bottlenecks for effective network troubleshooting.
